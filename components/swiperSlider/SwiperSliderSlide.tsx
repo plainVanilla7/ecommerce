@@ -24,7 +24,7 @@ export default function SwiperSliderSlide({img, link, caption, captionPosition, 
 export interface ISwiperSliderSlide {
 	img: string;
 	link?: string;
-	caption: string | null;
+	caption?: string | null;
 	captionPosition: string | null;
 	useFilling?: boolean;
 	fillingColor?: string;

@@ -113,70 +113,82 @@ function 	MainPageSlider() {
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.40
+			'fillingOpacity': 0.40,
+			'caption': '',
 		},	{
 			'img': p1.src,
 			'link': '',
-			'caption': 'Înghețată',
+			'caption': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.40
+			'fillingOpacity': 0.40,
 		},
 		{
 			'img':p2.src,
 			'link': '',
-			'caption': 'Sucuri',
+			'caption': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
 		},
 		{
 			'img':p3.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			'caption': '',
 		},
 		{
 			'img':p4.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			'caption': '',
 		}	,	{
 			'img':p5.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			'caption': '',
+
 		},
 		{
 			'img':p6.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			'caption': '',
+
 		},
 		{
 			'img':p7.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			caption: '',
+
 		}	,
 		{
 			'img':p8.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			caption: '',
+
 		},
 		{
 			'img':p9.src,
 			'link': '',
 			'captionPosition': 'bottom',
 			'fillingColor': '#000000',
-			'fillingOpacity': 0.4
+			'fillingOpacity': 0.4,
+			caption: '',
 		}
 	];
 
